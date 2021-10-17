@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**WandaSzmuc/WandaSzmuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-🦾 I’m currently working on "Wydatki" app where I will be able to monitor my spendings 💸💵 
+-🚀 I’m currently developing my JavaScript and React skills! 
+- 💬 Ask me about my projects and ideas!
+- ⚡ Fun fact: I love traveling ✈️ and meditation 🧘‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies and Tools:
+- HTML5
+- CSS3
+- SASS
+- JAVASCRIPT
+- REACT
